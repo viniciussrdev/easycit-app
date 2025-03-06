@@ -53,5 +53,6 @@ Configure o emulador ou conecte um dispositivo físico.
 Execute o projeto no Android Studio.
 
 *Em construção*
+
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
